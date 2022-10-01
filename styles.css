@@ -1,16 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.navbar{ 
-    position:fixed; 
+    background-color: bisque;
     
 }
+
+.trayectoria{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    align-content: center;
+    align-self: center;
+    background-color: burlywood;
+}
 p{
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 h1 {
     color: black;
