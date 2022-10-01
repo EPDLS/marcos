@@ -1,24 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 *{
     background-color: bisque;
-    
+    text-align: center;   
 }
-
 .trayectoria{
     font-family: "Montserrat", sans-serif;
     font-size: 20px;
-    align-content: center;
-    align-self: center;
-    background-color: burlywood;
 }
+
 p{
     font-family: "Montserrat", sans-serif;
 }
-h1 {
+h1{
     color: black;
+    font-family: "Montserrat", sans-serif;
 }
 h2 {
     color: black;
+    font-family: "Montserrat", sans-serif;
 }
+.carousel{
+    height: 57%;
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 
 
