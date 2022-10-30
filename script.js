@@ -52,6 +52,7 @@ console.log (costVarilla)
 console.log (costObjeto)
 
 console.log (presupuesto1)
+console.log (presupuesto2)
 if (document.getElementById ('radio-cliente').checked){
     cliente = true
 alert ('Su presupuesto para este trabajo seria de $' + presupuesto1)
